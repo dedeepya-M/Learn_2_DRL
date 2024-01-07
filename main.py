@@ -1,6 +1,6 @@
 import random
 import gym
-import numpy as np  # Make sure to import numpy
+import numpy as np  
 
 env = gym.make("CartPole-v1", render_mode="human")
 
